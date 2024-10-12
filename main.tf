@@ -1,5 +1,5 @@
 provider "aws" {}
 
-module "instance" {
-  source = "./modules/ec2"
-}
+# module "instance" {
+#   source = "./modules/ec2"
+# }
